@@ -58,7 +58,6 @@
         <module>drill</module>
         <module>ehcache</module>
         <module>elsql</module>
-        <module>etcd</module>
         <module>etcd3</module>
         <module>facebook</module>
         <module>fastjson</module>
