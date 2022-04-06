@@ -247,7 +247,6 @@
 *** xref:reference/extensions/redis.adoc[Redis]
 *** xref:reference/extensions/ref.adoc[Ref]
 *** xref:reference/extensions/rest.adoc[Rest]
-*** xref:reference/extensions/ribbon.adoc[Ribbon]
 *** xref:reference/extensions/robotframework.adoc[Robot Framework]
 *** xref:reference/extensions/sap-netweaver.adoc[SAP NetWeaver]
 *** xref:reference/extensions/jsch.adoc[SCP]
