@@ -45,7 +45,6 @@
         <module>azure-storage-datalake</module>
         <module>barcode</module>
         <module>beanio</module>
-        <module>beanstalk</module>
         <module>bonita</module>
         <module>chatscript</module>
         <module>chunk</module>
