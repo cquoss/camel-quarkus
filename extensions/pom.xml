@@ -219,7 +219,6 @@
         <module>stream</module>
         <module>stringtemplate</module>
         <module>syslog</module>
-        <module>tagsoup</module>
         <module>tarfile</module>
         <module>telegram</module>
         <module>tika</module>
