@@ -61,7 +61,6 @@
         <module>facebook</module>
         <module>fastjson</module>
         <module>flink</module>
-        <module>ganglia</module>
         <module>google-functions</module>
         <module>google-secret-manager</module>
         <module>groovy</module>
