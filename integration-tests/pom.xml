@@ -107,7 +107,6 @@
         <module>headersmap</module>
         <module>hl7</module>
         <module>http</module>
-        <module>hystrix</module>
         <module>infinispan</module>
         <module>influxdb</module>
         <module>jackson-avro</module>

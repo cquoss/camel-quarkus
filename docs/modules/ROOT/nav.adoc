@@ -146,7 +146,6 @@
 *** xref:reference/extensions/http.adoc[HTTP]
 *** xref:reference/extensions/hazelcast.adoc[Hazelcast Atomic Number]
 *** xref:reference/extensions/headersmap.adoc[Headersmap]
-*** xref:reference/extensions/hystrix.adoc[Hystrix]
 *** xref:reference/extensions/iec60870.adoc[IEC 60870 Client]
 *** xref:reference/extensions/iota.adoc[IOTA]
 *** xref:reference/extensions/irc.adoc[IRC]
