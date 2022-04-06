@@ -312,7 +312,6 @@
 *** xref:reference/extensions/xslt-saxon.adoc[XSLT Saxon]
 *** xref:reference/extensions/xstream.adoc[XStream]
 *** xref:reference/extensions/yaml-dsl.adoc[YAML DSL]
-*** xref:reference/extensions/yammer.adoc[Yammer]
 *** xref:reference/extensions/zendesk.adoc[Zendesk]
 *** xref:reference/extensions/zip-deflater.adoc[Zip Deflate Compression]
 *** xref:reference/extensions/zipfile.adoc[Zip File]
