@@ -110,7 +110,6 @@
 *** xref:reference/extensions/drill.adoc[Drill]
 *** xref:reference/extensions/dropbox.adoc[Dropbox]
 *** xref:reference/extensions/ehcache.adoc[Ehcache]
-*** xref:reference/extensions/elsql.adoc[ElSQL]
 *** xref:reference/extensions/elasticsearch-rest.adoc[Elasticsearch Rest]
 *** xref:reference/extensions/etcd3.adoc[Etcd3]
 *** xref:reference/extensions/exec.adoc[Exec]
