@@ -215,7 +215,6 @@
 *** xref:reference/extensions/mongodb-gridfs.adoc[MongoDB GridFS]
 *** xref:reference/extensions/mustache.adoc[Mustache]
 *** xref:reference/extensions/mybatis.adoc[MyBatis]
-*** xref:reference/extensions/nsq.adoc[NSQ]
 *** xref:reference/extensions/nagios.adoc[Nagios]
 *** xref:reference/extensions/nats.adoc[Nats]
 *** xref:reference/extensions/netty.adoc[Netty]

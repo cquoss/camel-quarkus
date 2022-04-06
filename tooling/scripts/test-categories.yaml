@@ -160,7 +160,6 @@ group-10:
   - main-unknown-args-fail
   - main-unknown-args-ignore
   - nagios
-  - nsq
 group-11:
   - compression
   - disruptor
