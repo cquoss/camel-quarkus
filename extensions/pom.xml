@@ -166,7 +166,6 @@
         <module>mock</module>
         <module>mongodb</module>
         <module>mongodb-gridfs</module>
-        <module>msv</module>
         <module>mustache</module>
         <module>mybatis</module>
         <module>nagios</module>

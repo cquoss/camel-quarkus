@@ -146,7 +146,6 @@
         <module>minio</module>
         <module>mllp</module>
         <module>mongodb-grouped</module>
-        <module>msv</module>
         <module>mustache</module>
         <module>mybatis</module>
         <module>nagios</module>

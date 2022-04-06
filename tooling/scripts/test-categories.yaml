@@ -112,7 +112,6 @@ group-07:
   - geocoder
   - jslt
   - lumberjack
-  - msv
   - olingo4
   - optaplanner
   - pg-replication-slot

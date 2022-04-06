@@ -198,7 +198,6 @@
 *** xref:reference/extensions/lucene.adoc[Lucene]
 *** xref:reference/extensions/lumberjack.adoc[Lumberjack]
 *** xref:reference/extensions/mllp.adoc[MLLP]
-*** xref:reference/extensions/msv.adoc[MSV]
 *** xref:reference/extensions/mvel.adoc[MVEL]
 *** xref:reference/extensions/mail.adoc[Mail]
 *** xref:reference/extensions/management.adoc[Management]
