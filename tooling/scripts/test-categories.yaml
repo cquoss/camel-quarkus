@@ -157,7 +157,6 @@ group-10:
   - mail
   - main-unknown-args-fail
   - main-unknown-args-ignore
-  - nagios
 group-11:
   - compression
   - disruptor

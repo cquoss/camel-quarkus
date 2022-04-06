@@ -168,7 +168,6 @@
         <module>mongodb-gridfs</module>
         <module>mustache</module>
         <module>mybatis</module>
-        <module>nagios</module>
         <module>nats</module>
         <module>netty</module>
         <module>netty-http</module>
