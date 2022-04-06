@@ -102,7 +102,6 @@
         <module>schematron</module>
         <module>smpp</module>
         <module>snmp</module>
-        <module>soroush</module>
         <module>spark</module>
         <module>splunk-hec</module>
         <module>stitch</module>
