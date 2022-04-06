@@ -36,7 +36,6 @@
         <module>asn1</module>
         <module>asterisk</module>
         <module>atmos</module>
-        <module>atomix</module>
         <module>aws-secrets-manager</module>
         <module>aws-xray</module>
         <module>azure-cosmosdb</module>

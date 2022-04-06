@@ -56,7 +56,6 @@
 *** xref:reference/extensions/atlasmap.adoc[AtlasMap]
 *** xref:reference/extensions/atmos.adoc[Atmos]
 *** xref:reference/extensions/atom.adoc[Atom]
-*** xref:reference/extensions/atomix.adoc[Atomix Map]
 *** xref:reference/extensions/attachments.adoc[Attachments]
 *** xref:reference/extensions/avro.adoc[Avro]
 *** xref:reference/extensions/jackson-avro.adoc[Avro Jackson]
