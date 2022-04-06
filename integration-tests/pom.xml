@@ -114,7 +114,6 @@
         <module>jaxb</module>
         <module>jdbc</module>
         <module>jfr</module>
-        <module>jing</module>
         <module>jira</module>
         <module>jms-artemis-client</module>
         <module>jms-qpid-amqp-client</module>
